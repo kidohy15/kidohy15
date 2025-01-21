@@ -26,9 +26,9 @@
 
 <h2>My Future Plans</h2>
 <ol>
-  <li>자면서도 아파도 피곤해도 React, front-end 관해서 컨디션 관계없이 일정 퍼포먼스 낼 수 있도록 기본기 공부와 연습</li>
-  <li>본인 서비스로 실사용자 1000명 달성하기</li>
-  <li>모바일앱 형태의 서비스 구현 및 배포해보기</li>
+  <li>front-end, React 관련해서 좋은 퍼포먼스 낼 수 있도록 꾸준한 기본기 공부와 연습 ! </li>
+  <li>본인 서비스로 실사용자 1000명 달성하기 ! </li>
+  <li>모바일앱 형태의 서비스 구현 및 배포해보기 ! </li>
 </ol>
 
 ##### May the peace be with us, thank you. 👋
